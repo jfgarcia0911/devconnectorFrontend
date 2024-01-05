@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/devconnectorFrontend/static/css/main.726dfb16.css",
+    "main.js": "/devconnectorFrontend/static/js/main.a6400946.js",
+    "static/media/web-development.jpg": "/devconnectorFrontend/static/media/web-development.341e0043da9f2eadb0e8.jpg",
+    "index.html": "/devconnectorFrontend/index.html",
+    "main.726dfb16.css.map": "/devconnectorFrontend/static/css/main.726dfb16.css.map",
+    "main.a6400946.js.map": "/devconnectorFrontend/static/js/main.a6400946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.726dfb16.css",
+    "static/js/main.a6400946.js"
+  ]
+}

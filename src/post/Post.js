@@ -15,7 +15,6 @@ const Post = ({ getPost, post: { post, loading } }) => {
 	}, [getPost, params]);
 
 
-	console.log(post)
 	return loading || post === null ? (
 		<Spinner />
 	) : (

@@ -1,7 +1,7 @@
 {
   "name": "devconnector",
   "version": "0.1.0",
-  "homepage": "https://jfgarcia0911.github.io/devconnectorFrontend",
+  "homepage": "https://jfgarcia0911.github.io/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
